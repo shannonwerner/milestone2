@@ -1,0 +1,13 @@
+pandas
+
+numpy
+
+nibabel
+
+scipy
+
+matplotlib
+
+torch
+
+tqdm
