@@ -6,8 +6,8 @@ This project focuses on generating and classifying medical images. It includes s
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/shannonwerner/milestone2.git
+   cd milestone2
    ```
 
 2. Create a virtual environment and activate it:
